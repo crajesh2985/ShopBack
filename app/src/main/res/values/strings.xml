@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShopAndMoviesBack</string>
+    <string name="str_popularity">Popularity:</string>
+    <string name="str_check_network">Please check the network...</string>
+    <string name="str_overview">Overview</string>
+    <string name="str_colon">:</string>
+    <string name="str_na">NA</string>
+    <string name="str_genres">Genres</string>
+    <string name="str_language">Language</string>
+    <string name="str_duration">Duration</string>
+    <string name="tagline">Tagline</string>
+    <string name="status">Status</string>
+    <string name="str_production_ncompanies">Production\nCompanies</string>
+    <string name="str_budget">Budget</string>
+    <string name="str_book">Book</string>
+</resources>
